@@ -5587,15 +5587,9 @@
                             "template_path": "IB"
                         },
                         "id": "test_id"
-                    },
-                    {
-                        "type": "Feature",
-                        "geometry": {
-                            "type": "Point",
-                            "coordinates": [
-                                -0.036109,
-                                51.525909
-                            ]
-                        },
-                        "properties": {
-                            "template_path": 
+                    }
+                ]
+            }
+        }
+    ]
+}
